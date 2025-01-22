@@ -1,51 +1,32 @@
-# lab natty IA
+Enciclopédia Virtual de Macacos
+Breve descrição do seu projeto Nosso projeto tem como objetivo criar uma enciclopédia virtual interativa dedicada aos macacos. Utilizamos tecnologias de Inteligência Artificial (IA) para oferecer informações detalhadas sobre diversas espécies de macacos, incluindo seus hábitos, habitats e características únicas. A enciclopédia visa proporcionar uma experiência educativa e envolvente para os usuários.
 
-## 🚀 Enciclopédia Virtual de Macacos
+🤖 Tecnologias Utilizadas
+ChatGPT: Para gerar e personalizar descrições das espécies de macacos, seus comportamentos e hábitos.
 
-> Woooow! Look at this 👀
+DALL-E: Para criar imagens ilustrativas e infográficos das diferentes espécies de macacos.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Vocaloid: Para narrar audioguias e fornecer uma experiência auditiva imersiva sobre a vida dos macacos.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Machine Learning: Para analisar as preferências dos usuários e adaptar o conteúdo conforme suas necessidades.
 
-### Objetivos
+🧐 Processo de Criação
+Ideação: Sessões de brainstorming com biólogos, primatologistas e especialistas em IA para definir o conteúdo e as funcionalidades da enciclopédia.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Pesquisa: Investigação sobre as diferentes espécies de macacos, seus habitats, comportamentos e conservação.
 
-### Template
+Desenvolvimento: Criação da plataforma utilizando IA para gerar e personalizar o conteúdo, com refinamentos manuais para assegurar precisão.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Revisão: Teste de usabilidade com educadores e crianças, seguido de ajustes para melhorar a experiência de navegação e interação.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🚀 Resultados
+Espécies de Macacos: Descrições detalhadas das características, comportamentos e habitats de várias espécies de macacos.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Guias de Conservação: Infográficos e textos que explicam os esforços e práticas de conservação para proteger os macacos.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Dicas Educativas: Sugestões e técnicas para educadores e pais sobre como ensinar as crianças sobre os macacos e sua importância ecológica.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Audioguias Interativos: Narrações que oferecem informações adicionais e curiosidades sobre os macacos, proporcionando uma experiência educativa e envolvente.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+O desafio de criar algo 'natty' com IA neste projeto foi garantir que as informações fossem apresentadas de maneira natural e compreensível. Combinando a capacidade tecnológica das IAs com a expertise humana, conseguimos desenvolver uma enciclopédia que é tanto informativa quanto envolvente, facilitando o acesso a conhecimentos valiosos sobre os macacos e sua ecologia.
