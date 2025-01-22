@@ -1,6 +1,6 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# lab natty IA
 
-## 🚀 Introdução
+## 🚀 Enciclopédia Virtual de Macacos
 
 > Woooow! Look at this 👀
 
